@@ -11,7 +11,7 @@ excerpt: My name is Abdul Khader and I am a software engineer who likes to work 
 ---
 My name is Abdul Khader, and I am a software engineer who likes to work on distributed applications!
 
-I did my Masters in Computer Science from University of Waterloo and have been working as a software engineer for almost 5 years.
+I did my Masters in Computer Science from the University of Waterloo and have been working as a software engineer for almost 5 years.
 
 I enjoy building things, and these are some small mobile applications that I have worked on.
 
