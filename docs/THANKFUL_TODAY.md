@@ -15,7 +15,7 @@ and reflect on the positive moments in your life.
 
 {% include button.html text="Google Play Store" link="https://play.google.com/store/apps/details?id=com.main.thankful_today" icon="414141" %}
 
-{% include icon.html id="twitter" title="twitter" %}
+[Privacy Policy]({% link tt_privacy.md %})
 
 **Key Features:**
 - **Capture Three Good Things Daily**: Record three things you are grateful for each day. 
